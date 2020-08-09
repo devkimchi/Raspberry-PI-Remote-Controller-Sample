@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch API App (node.js)",
+            "name": "Launch Node API App (node.js)",
             "skipFiles": [
                 "<node_internals>/**"
             ],
